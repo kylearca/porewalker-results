@@ -1,0 +1,2 @@
+Output chikv6khexamer2.acc: errors ok
+Output chikv6khexamer2.acc: atoms ok

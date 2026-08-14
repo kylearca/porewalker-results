@@ -1,0 +1,48 @@
+Lines found: 7 :Straight %: 0.844827586206897 :Total RMSD:     1.15153980    
+
+RL(1)L(1)L(1)L(1)L(2)L(2)L(2)L(2)L(2)L(2)L(2)L(2)L(3)L(3)L(3)L(3)L(3)L(3)L(3)RL(4)L(4)L(4)L(4)L(4)RRL(5)L(5)L(5)L(5)L(5)L(6)L(6)L(6)L(6)L(6)L(6)L(6)L(6)L(6)L(6)L(6)L(6)L(6)L(6)L(6)L(7)L(7)L(7)L(7)L(7)RRRRR
+Line Comparison RMSD:     1.05290449    
+ 
+Line Comparison( 0 with 1) RMSD:    0.673918366    
+ 
+Line Comparison( 0 with 2) RMSD:    0.764715195    
+ 
+Line Comparison( 0 with 3) RMSD:    0.650272429    
+ 
+Line Comparison( 0 with 4) RMSD:    0.755187392    
+ 
+EQUAL: Line Comparison( 0 with 5) RMSD:    0.520927727    
+ 
+Line Comparison( 0 with 6) RMSD:    0.745268047    
+ 
+Line Comparison( 1 with 2) RMSD:    0.719515264    
+ 
+Line Comparison( 1 with 3) RMSD:    0.632706642    
+ 
+Line Comparison( 1 with 4) RMSD:    0.646726608    
+ 
+EQUAL: Line Comparison( 1 with 5) RMSD:    0.467368662    
+ 
+Line Comparison( 1 with 6) RMSD:    0.605863988    
+ 
+EQUAL: Line Comparison( 2 with 3) RMSD:    0.541790187    
+ 
+Line Comparison( 2 with 4) RMSD:    0.708628356    
+ 
+Line Comparison( 2 with 5) RMSD:    0.600282252    
+ 
+Line Comparison( 2 with 6) RMSD:    0.664469600    
+ 
+Line Comparison( 3 with 4) RMSD:    0.729096353    
+ 
+Line Comparison( 3 with 5) RMSD:    0.691624761    
+ 
+Line Comparison( 3 with 6) RMSD:    0.564675212    
+ 
+Line Comparison( 4 with 5) RMSD:    0.644988060    
+ 
+Line Comparison( 4 with 6) RMSD:    0.764506996    
+ 
+Line Comparison( 5 with 6) RMSD:    0.631252050    
+ 
+New number of identified lines: 4

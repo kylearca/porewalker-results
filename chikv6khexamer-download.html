@@ -1,0 +1,146 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<title>PoreWalker home page</title>
+
+<link rel="stylesheet" href="file:///home/debian/porewalker/templates/css/contents.css" type="text/css">
+<link rel="stylesheet" href="file:///home/debian/porewalker/templates/css/userstyles.css" type="text/css">
+<link rel="stylesheet" href="file:///home/debian/porewalker/templates/css/page.css" type="text/css"/>
+<script src="file:///home/debian/porewalker/templates/js/contents.js" type="text/javascript"></script><style 
+
+<style type="text/css">
+  @media print {
+  body, .contents, .header, .contentsarea, .head {
+  position: relative;
+  }
+}
+</style>
+<script language="javascript">
+var win = null;
+function NewWindow(mypage,myname,w,h,scroll){
+LeftPosition = (screen.width) ? (screen.width-w)/2 : 0;
+TopPosition = (screen.height) ? (screen.height-h)/2 : 0;
+settings =
+'height='+h+',width='+w+',top='+TopPosition+',left='+LeftPosition+',scrollbars='+scroll+',resizable'
+win = window.open(mypage,myname,settings)
+}
+</script>
+
+<!-- ... Overlib script (c) Erik Bosrup -->
+<script type="text/javascript" src="file:///home/debian/porewalker/templates/js/overlib.js">
+</script>
+
+<table cellspacing=10 border=0>
+  <tr>
+    <td align=center valign=top>
+      <table>
+	<tr>
+	  <td align=center>
+	    <a href="https://www.ebi.ac.uk/thornton-srv/software/PoreWalker"
+	       title="PoreWalker home"
+	       target="PoreWalkerHome"
+	       ><img src="file:///home/debian/porewalker/templates/gif/PoreWalkerLoneLogo_sm.png" border=0></a>
+	  </td>
+	</tr>
+	<tr>  
+	  <td align=center>
+	    <a href="https://www.ebi.ac.uk/thornton-srv/software/PoreWalker/readme_ml.txt"
+	       title="PoreWalker documentation"
+	       target="PoreWalkerdocs"
+	       onclick="NewWindow(this.href,'','700','800','yes');return false;"
+	       ><font size=+1>Documentation</font></a>
+	  </td>
+	</tr>
+	<tr>
+          <td align=center>
+            <div align="center" style="font-size:115%"><B>
+<img src="pic/chikv6khexamer-out1.png" width="200px"/>		<P>
+<a href="index.html">chikv6khexamer</a>            </B></div>
+          </td>
+	</tr>
+      </table>
+    </td>
+    <td>
+      &nbsp;&nbsp;
+    </td>
+    <td valign=top>
+
+       <table cellpadding=0 cellspacing=0 bgcolor="#eef5f5">
+        <tr>
+         <td class=color colspan=3>
+          <img src="gifgif/1x1.gif" height=1>
+         </td>
+        </tr>
+        <tr>
+         <td class=color>
+          <img src="gifgif/1x1.gif" width=1 height=30>
+         </td>
+         <td align="left" width="600">
+          <font class="ebi_green_head">
+           &nbsp;&nbsp;Pore analysis results
+          </font>
+         </td>
+         <td class=color>
+          <img src="gifgif/1x1.gif" width=1 height=30>
+         </td>
+        </tr>
+        <tr>
+         <td class=color colspan=3>
+          <img src="gifgif/1x1.gif" height=1>
+         </td>
+        </tr>
+       </table>
+       <P>
+<table cellpadding=0 cellspacing=0>
+ <tr>
+  <td height=21 valign=top>
+   <a href="index.html"
+   title="Summary"
+   ><img height="21"
+    src="file:///home/debian/porewalker/templates/gif/SummaryOff.png">
+  </td>
+  <td height=21 valign=top>
+   <a href="chikv6khexamer-vis.html"
+   title="Visualisation"
+   ><img height="21"
+    src="file:///home/debian/porewalker/templates/gif/VisualisationOff.png">
+  </td>
+  <td height=21 valign=top>
+   <a href="chikv6khexamer-slideshow.html"
+   title="CrossSections"
+   ><img height="21"
+    src="file:///home/debian/porewalker/templates/gif/CrossSectionsOff.png">
+  </td>
+  <td height=21 valign=top>
+   <a href="chikv6khexamer-shape.html"
+   title="Shape"
+   ><img height="21"
+    src="file:///home/debian/porewalker/templates/gif/ShapeOff.png">
+  </td>
+  <td height=21 valign=top>
+   <a href="chikv6khexamer-linearity.html"
+   title="CavityFeatures"
+   ><img height="21"
+    src="file:///home/debian/porewalker/templates/gif/CavityFeaturesOff.png">
+  </td>
+  <td height=21 valign=top>
+   <img height="21"
+    src="file:///home/debian/porewalker/templates/gif/DownloadsOn.png">
+  </td>
+  </td>
+ </tr>
+</table>
+<div style="font-size: 150%;">
+<h2 id="dl">Downloads:</h2><br/>
+<UL>
+<LI><a href="chikv6khexamer-output.txt">Calculated parameter text file, including selected pore lining residues</a><br/><br/>
+<LI><a href="chikv6khexamer-marked-pdb2.pdb">Submitted PDB file as rotated and translated according to the pore axis and coloured by selected pore lining atoms and residues (B-Factor)</a><br/><br/>
+<LI><a href="chikv6khexamer-aa_list.txt">Predicted pore-lining residues (text file)</a><br/><br/>
+<LI><a href="https://www.ebi.ac.uk/thornton-srv/software/PoreWalker/readme_ml.txt">README file (text file)</a><br/>
+</UL>
+</div>
+<br/>
+    </td>
+  </tr>
+</table>
+
+</body>
+</html>

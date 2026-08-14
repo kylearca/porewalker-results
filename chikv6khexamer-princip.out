@@ -1,0 +1,23 @@
+ Enter name of .pdb file
+ Number of points read in:           20
+
+ Normal to best-fit plane:   2.03000903E-02 -0.757515848      0.652501106    
+ Centre of gravity:          15.3619995       1.69499870E-02  0.347299993    
+
+ Equation of best-fit plane is  ax + by + cz = d
+    where  a =   2.03000903E-02
+           b = -0.757515848    
+           c =  0.652501106    
+           d =  0.525623739    
+
+ Eigenvectors and eigenvalues:
+ -----------------------------
+  0.998874485       4.33490016E-02   1.92494895E-02    |   666.489502    
+  -4.28670682E-02  0.651375949      0.757543266        |   4.63048792    
+   2.03000903E-02 -0.757515848      0.652501106        |   3.33909440    
+
+ RMS difference from best-fit plane:   0.408600986    
+
+ RMS difference from best-fit line:   0.631252050    
+
+ Program completed

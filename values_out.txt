@@ -1,0 +1,112 @@
+Run: 1
+Average Distance: 1.466946
+Std_Dev: 0.729760
+Outs: 7
+Average Sphere Size: 7.985005
+Std_Dev for Sphere Sizes: 7.782635
+
+Run: 2
+Average Distance: 1.615733
+Std_Dev: 2.599767
+Outs: 9
+Average Sphere Size: 7.679664
+Std_Dev for Sphere Sizes: 7.738931
+
+Run: 3
+Average Distance: 1.429365
+Std_Dev: 1.973834
+Outs: 7
+Average Sphere Size: 7.860003
+Std_Dev for Sphere Sizes: 7.016426
+
+Run: 4
+Average Distance: 1.801218
+Std_Dev: 4.942034
+Outs: 5
+Average Sphere Size: 7.773776
+Std_Dev for Sphere Sizes: 8.145895
+
+Run: 5
+Average Distance: 1.801917
+Std_Dev: 3.804826
+Outs: 5
+Average Sphere Size: 7.700005
+Std_Dev for Sphere Sizes: 7.724287
+
+Run: 6
+Average Distance: 1.510436
+Std_Dev: 2.123762
+Outs: 5
+Average Sphere Size: 7.871671
+Std_Dev for Sphere Sizes: 7.740387
+
+Run: 7
+Average Distance: 1.606943
+Std_Dev: 2.136026
+Outs: 6
+Average Sphere Size: 7.733903
+Std_Dev for Sphere Sizes: 6.990061
+
+Run: 1
+Average Distance: 1.466946
+Std_Dev: 0.729760
+Outs: 7
+Average Sphere Size: 7.985005
+Std_Dev for Sphere Sizes: 7.782635
+
+Run: 1
+Average Distance: 1.466946
+Std_Dev: 0.729760
+Outs: 7
+Average Sphere Size: 7.985005
+Std_Dev for Sphere Sizes: 7.782635
+
+Run: 2
+Average Distance: 1.615733
+Std_Dev: 2.599767
+Outs: 9
+Average Sphere Size: 7.679664
+Std_Dev for Sphere Sizes: 7.738931
+
+Run: 3
+Average Distance: 1.429365
+Std_Dev: 1.973834
+Outs: 7
+Average Sphere Size: 7.860003
+Std_Dev for Sphere Sizes: 7.016426
+
+Run: 4
+Average Distance: 1.801218
+Std_Dev: 4.942034
+Outs: 5
+Average Sphere Size: 7.773776
+Std_Dev for Sphere Sizes: 8.145895
+
+Run: 5
+Average Distance: 1.801917
+Std_Dev: 3.804826
+Outs: 5
+Average Sphere Size: 7.700005
+Std_Dev for Sphere Sizes: 7.724287
+
+Run: 6
+Average Distance: 1.510436
+Std_Dev: 2.123762
+Outs: 5
+Average Sphere Size: 7.871671
+Std_Dev for Sphere Sizes: 7.740387
+
+Run: 7
+Average Distance: 1.606943
+Std_Dev: 2.136026
+Outs: 6
+Average Sphere Size: 7.733903
+Std_Dev for Sphere Sizes: 6.990061
+
+Run: 8
+Average Distance: 1.225832
+Std_Dev: 0.887922
+Outs: 5
+Average Sphere Size: 7.750003
+Std_Dev for Sphere Sizes: 7.723215
+

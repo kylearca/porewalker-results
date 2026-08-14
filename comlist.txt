@@ -1,0 +1,240 @@
+Improved center of mass at: 0.000 -1.070 0.268
+HETATM    0  O   HOH X   1       0.000  -1.070   0.268  1.00  1.00
+Improved center of mass at: 0.000 -1.988 0.484
+HETATM    0  O   HOH X   1       0.000  -1.988   0.484  1.00  2.00
+Improved center of mass at: 0.000 -1.242 0.986
+HETATM    0  O   HOH X   1       0.000  -1.242   0.986  1.00  3.00
+Improved center of mass at: 0.000 -2.009 1.877
+HETATM    0  O   HOH X   1       0.000  -2.009   1.877  1.00  5.00
+Improved center of mass at: 0.000 -1.912 2.077
+HETATM    0  O   HOH X   1       0.000  -1.912   2.077  1.00  6.00
+Improved center of mass at: 0.000 -1.350 1.548
+HETATM    0  O   HOH X   1       0.000  -1.350   1.548  1.00  7.00
+Improved center of mass at: 0.000 -1.182 1.162
+HETATM    0  O   HOH X   1       0.000  -1.182   1.162  1.00  8.00
+Improved center of mass at: 0.000 -2.247 2.458
+HETATM    0  O   HOH X   1       0.000  -2.247   2.458  1.00  10.00
+Improved center of mass at: 0.000 -2.021 2.091
+HETATM    0  O   HOH X   1       0.000  -2.021   2.091  1.00  11.00
+Improved center of mass at: 0.000 -1.502 1.746
+HETATM    0  O   HOH X   1       0.000  -1.502   1.746  1.00  12.00
+Improved center of mass at: 0.000 -1.263 1.164
+HETATM    0  O   HOH X   1       0.000  -1.263   1.164  1.00  13.00
+Improved center of mass at: 0.000 -2.477 2.385
+HETATM    0  O   HOH X   1       0.000  -2.477   2.385  1.00  15.00
+Improved center of mass at: 0.000 -2.021 2.091
+HETATM    0  O   HOH X   1       0.000  -2.021   2.091  1.00  16.00
+Improved center of mass at: 0.000 -1.502 1.746
+HETATM    0  O   HOH X   1       0.000  -1.502   1.746  1.00  17.00
+Improved center of mass at: 0.000 -1.561 1.103
+HETATM    0  O   HOH X   1       0.000  -1.561   1.103  1.00  18.00
+Improved center of mass at: 0.000 -2.311 2.298
+HETATM    0  O   HOH X   1       0.000  -2.311   2.298  1.00  20.00
+Improved center of mass at: 0.000 -2.275 1.817
+HETATM    0  O   HOH X   1       0.000  -2.275   1.817  1.00  21.00
+Improved center of mass at: 0.000 -1.891 1.995
+HETATM    0  O   HOH X   1       0.000  -1.891   1.995  1.00  22.00
+Improved center of mass at: 0.000 -1.715 1.301
+HETATM    0  O   HOH X   1       0.000  -1.715   1.301  1.00  23.00
+Improved center of mass at: 0.000 -3.329 2.515
+HETATM    0  O   HOH X   1       0.000  -3.329   2.515  1.00  25.00
+Improved center of mass at: 0.000 -2.968 2.572
+HETATM    0  O   HOH X   1       0.000  -2.968   2.572  1.00  26.00
+Improved center of mass at: 0.000 -2.066 2.273
+HETATM    0  O   HOH X   1       0.000  -2.066   2.273  1.00  27.00
+Improved center of mass at: 0.000 -1.935 1.535
+HETATM    0  O   HOH X   1       0.000  -1.935   1.535  1.00  28.00
+Improved center of mass at: 0.000 -2.040 1.178
+HETATM    0  O   HOH X   1       0.000  -2.040   1.178  1.00  29.00
+Improved center of mass at: 0.000 -3.360 2.019
+HETATM    0  O   HOH X   1       0.000  -3.360   2.019  1.00  31.00
+Improved center of mass at: 0.000 -3.190 2.635
+HETATM    0  O   HOH X   1       0.000  -3.190   2.635  1.00  32.00
+Improved center of mass at: 0.000 -2.097 2.099
+HETATM    0  O   HOH X   1       0.000  -2.097   2.099  1.00  33.00
+Improved center of mass at: 0.000 -2.376 1.741
+HETATM    0  O   HOH X   1       0.000  -2.376   1.741  1.00  34.00
+Improved center of mass at: 0.000 -2.649 1.214
+HETATM    0  O   HOH X   1       0.000  -2.649   1.214  1.00  35.00
+Improved center of mass at: 0.000 -1.800 0.766
+HETATM    0  O   HOH X   1       0.000  -1.800   0.766  1.00  36.00
+Improved center of mass at: 0.000 -2.749 1.683
+HETATM    0  O   HOH X   1       0.000  -2.749   1.683  1.00  38.00
+Improved center of mass at: 0.000 -2.155 1.805
+HETATM    0  O   HOH X   1       0.000  -2.155   1.805  1.00  39.00
+Improved center of mass at: 0.000 -2.164 1.483
+HETATM    0  O   HOH X   1       0.000  -2.164   1.483  1.00  40.00
+Improved center of mass at: 0.000 -2.067 0.984
+HETATM    0  O   HOH X   1       0.000  -2.067   0.984  1.00  41.00
+Improved center of mass at: 0.000 -1.876 0.678
+HETATM    0  O   HOH X   1       0.000  -1.876   0.678  1.00  42.00
+Improved center of mass at: 0.000 -2.919 1.509
+HETATM    0  O   HOH X   1       0.000  -2.919   1.509  1.00  44.00
+Improved center of mass at: 0.000 -2.117 1.620
+HETATM    0  O   HOH X   1       0.000  -2.117   1.620  1.00  45.00
+Improved center of mass at: 0.000 -2.285 1.193
+HETATM    0  O   HOH X   1       0.000  -2.285   1.193  1.00  46.00
+Improved center of mass at: 0.000 -2.067 0.984
+HETATM    0  O   HOH X   1       0.000  -2.067   0.984  1.00  47.00
+Improved center of mass at: 0.000 -1.876 0.678
+HETATM    0  O   HOH X   1       0.000  -1.876   0.678  1.00  48.00
+Improved center of mass at: 0.000 -1.070 0.268
+HETATM    0  O   HOH X   1       0.000  -1.070   0.268  1.00  1.00
+Improved center of mass at: 0.000 -1.988 0.484
+HETATM    0  O   HOH X   1       0.000  -1.988   0.484  1.00  2.00
+Improved center of mass at: 0.000 -1.242 0.986
+HETATM    0  O   HOH X   1       0.000  -1.242   0.986  1.00  3.00
+Improved center of mass at: 0.000 -2.009 1.877
+HETATM    0  O   HOH X   1       0.000  -2.009   1.877  1.00  5.00
+Improved center of mass at: 0.000 -1.912 2.077
+HETATM    0  O   HOH X   1       0.000  -1.912   2.077  1.00  6.00
+Improved center of mass at: 0.000 -1.350 1.548
+HETATM    0  O   HOH X   1       0.000  -1.350   1.548  1.00  7.00
+Improved center of mass at: 0.000 -1.182 1.162
+HETATM    0  O   HOH X   1       0.000  -1.182   1.162  1.00  8.00
+Improved center of mass at: 0.000 -2.247 2.458
+HETATM    0  O   HOH X   1       0.000  -2.247   2.458  1.00  10.00
+Improved center of mass at: 0.000 -2.021 2.091
+HETATM    0  O   HOH X   1       0.000  -2.021   2.091  1.00  11.00
+Improved center of mass at: 0.000 -1.502 1.746
+HETATM    0  O   HOH X   1       0.000  -1.502   1.746  1.00  12.00
+Improved center of mass at: 0.000 -1.263 1.164
+HETATM    0  O   HOH X   1       0.000  -1.263   1.164  1.00  13.00
+Improved center of mass at: 0.000 -2.477 2.385
+HETATM    0  O   HOH X   1       0.000  -2.477   2.385  1.00  15.00
+Improved center of mass at: 0.000 -2.021 2.091
+HETATM    0  O   HOH X   1       0.000  -2.021   2.091  1.00  16.00
+Improved center of mass at: 0.000 -1.502 1.746
+HETATM    0  O   HOH X   1       0.000  -1.502   1.746  1.00  17.00
+Improved center of mass at: 0.000 -1.561 1.103
+HETATM    0  O   HOH X   1       0.000  -1.561   1.103  1.00  18.00
+Improved center of mass at: 0.000 -2.311 2.298
+HETATM    0  O   HOH X   1       0.000  -2.311   2.298  1.00  20.00
+Improved center of mass at: 0.000 -2.275 1.817
+HETATM    0  O   HOH X   1       0.000  -2.275   1.817  1.00  21.00
+Improved center of mass at: 0.000 -1.891 1.995
+HETATM    0  O   HOH X   1       0.000  -1.891   1.995  1.00  22.00
+Improved center of mass at: 0.000 -1.715 1.301
+HETATM    0  O   HOH X   1       0.000  -1.715   1.301  1.00  23.00
+Improved center of mass at: 0.000 -3.329 2.515
+HETATM    0  O   HOH X   1       0.000  -3.329   2.515  1.00  25.00
+Improved center of mass at: 0.000 -2.968 2.572
+HETATM    0  O   HOH X   1       0.000  -2.968   2.572  1.00  26.00
+Improved center of mass at: 0.000 -2.066 2.273
+HETATM    0  O   HOH X   1       0.000  -2.066   2.273  1.00  27.00
+Improved center of mass at: 0.000 -1.935 1.535
+HETATM    0  O   HOH X   1       0.000  -1.935   1.535  1.00  28.00
+Improved center of mass at: 0.000 -2.040 1.178
+HETATM    0  O   HOH X   1       0.000  -2.040   1.178  1.00  29.00
+Improved center of mass at: 0.000 -3.360 2.019
+HETATM    0  O   HOH X   1       0.000  -3.360   2.019  1.00  31.00
+Improved center of mass at: 0.000 -3.190 2.635
+HETATM    0  O   HOH X   1       0.000  -3.190   2.635  1.00  32.00
+Improved center of mass at: 0.000 -2.097 2.099
+HETATM    0  O   HOH X   1       0.000  -2.097   2.099  1.00  33.00
+Improved center of mass at: 0.000 -2.376 1.741
+HETATM    0  O   HOH X   1       0.000  -2.376   1.741  1.00  34.00
+Improved center of mass at: 0.000 -2.649 1.214
+HETATM    0  O   HOH X   1       0.000  -2.649   1.214  1.00  35.00
+Improved center of mass at: 0.000 -1.800 0.766
+HETATM    0  O   HOH X   1       0.000  -1.800   0.766  1.00  36.00
+Improved center of mass at: 0.000 -2.749 1.683
+HETATM    0  O   HOH X   1       0.000  -2.749   1.683  1.00  38.00
+Improved center of mass at: 0.000 -2.155 1.805
+HETATM    0  O   HOH X   1       0.000  -2.155   1.805  1.00  39.00
+Improved center of mass at: 0.000 -2.164 1.483
+HETATM    0  O   HOH X   1       0.000  -2.164   1.483  1.00  40.00
+Improved center of mass at: 0.000 -2.067 0.984
+HETATM    0  O   HOH X   1       0.000  -2.067   0.984  1.00  41.00
+Improved center of mass at: 0.000 -1.876 0.678
+HETATM    0  O   HOH X   1       0.000  -1.876   0.678  1.00  42.00
+Improved center of mass at: 0.000 -2.919 1.509
+HETATM    0  O   HOH X   1       0.000  -2.919   1.509  1.00  44.00
+Improved center of mass at: 0.000 -2.117 1.620
+HETATM    0  O   HOH X   1       0.000  -2.117   1.620  1.00  45.00
+Improved center of mass at: 0.000 -2.285 1.193
+HETATM    0  O   HOH X   1       0.000  -2.285   1.193  1.00  46.00
+Improved center of mass at: 0.000 -2.067 0.984
+HETATM    0  O   HOH X   1       0.000  -2.067   0.984  1.00  47.00
+Improved center of mass at: 0.000 -1.876 0.678
+HETATM    0  O   HOH X   1       0.000  -1.876   0.678  1.00  48.00
+Improved center of mass at: 0.000 -1.070 0.268
+HETATM    0  O   HOH X   1       0.000  -1.070   0.268  1.00  1.00
+Improved center of mass at: 0.000 -1.988 0.484
+HETATM    0  O   HOH X   1       0.000  -1.988   0.484  1.00  2.00
+Improved center of mass at: 0.000 -1.242 0.986
+HETATM    0  O   HOH X   1       0.000  -1.242   0.986  1.00  3.00
+Improved center of mass at: 0.000 -2.009 1.877
+HETATM    0  O   HOH X   1       0.000  -2.009   1.877  1.00  5.00
+Improved center of mass at: 0.000 -1.912 2.077
+HETATM    0  O   HOH X   1       0.000  -1.912   2.077  1.00  6.00
+Improved center of mass at: 0.000 -1.350 1.548
+HETATM    0  O   HOH X   1       0.000  -1.350   1.548  1.00  7.00
+Improved center of mass at: 0.000 -1.182 1.162
+HETATM    0  O   HOH X   1       0.000  -1.182   1.162  1.00  8.00
+Improved center of mass at: 0.000 -2.247 2.458
+HETATM    0  O   HOH X   1       0.000  -2.247   2.458  1.00  10.00
+Improved center of mass at: 0.000 -2.021 2.091
+HETATM    0  O   HOH X   1       0.000  -2.021   2.091  1.00  11.00
+Improved center of mass at: 0.000 -1.502 1.746
+HETATM    0  O   HOH X   1       0.000  -1.502   1.746  1.00  12.00
+Improved center of mass at: 0.000 -1.263 1.164
+HETATM    0  O   HOH X   1       0.000  -1.263   1.164  1.00  13.00
+Improved center of mass at: 0.000 -2.477 2.385
+HETATM    0  O   HOH X   1       0.000  -2.477   2.385  1.00  15.00
+Improved center of mass at: 0.000 -2.021 2.091
+HETATM    0  O   HOH X   1       0.000  -2.021   2.091  1.00  16.00
+Improved center of mass at: 0.000 -1.502 1.746
+HETATM    0  O   HOH X   1       0.000  -1.502   1.746  1.00  17.00
+Improved center of mass at: 0.000 -1.561 1.103
+HETATM    0  O   HOH X   1       0.000  -1.561   1.103  1.00  18.00
+Improved center of mass at: 0.000 -2.311 2.298
+HETATM    0  O   HOH X   1       0.000  -2.311   2.298  1.00  20.00
+Improved center of mass at: 0.000 -2.275 1.817
+HETATM    0  O   HOH X   1       0.000  -2.275   1.817  1.00  21.00
+Improved center of mass at: 0.000 -1.891 1.995
+HETATM    0  O   HOH X   1       0.000  -1.891   1.995  1.00  22.00
+Improved center of mass at: 0.000 -1.715 1.301
+HETATM    0  O   HOH X   1       0.000  -1.715   1.301  1.00  23.00
+Improved center of mass at: 0.000 -3.329 2.515
+HETATM    0  O   HOH X   1       0.000  -3.329   2.515  1.00  25.00
+Improved center of mass at: 0.000 -2.968 2.572
+HETATM    0  O   HOH X   1       0.000  -2.968   2.572  1.00  26.00
+Improved center of mass at: 0.000 -2.066 2.273
+HETATM    0  O   HOH X   1       0.000  -2.066   2.273  1.00  27.00
+Improved center of mass at: 0.000 -1.935 1.535
+HETATM    0  O   HOH X   1       0.000  -1.935   1.535  1.00  28.00
+Improved center of mass at: 0.000 -2.040 1.178
+HETATM    0  O   HOH X   1       0.000  -2.040   1.178  1.00  29.00
+Improved center of mass at: 0.000 -3.360 2.019
+HETATM    0  O   HOH X   1       0.000  -3.360   2.019  1.00  31.00
+Improved center of mass at: 0.000 -3.190 2.635
+HETATM    0  O   HOH X   1       0.000  -3.190   2.635  1.00  32.00
+Improved center of mass at: 0.000 -2.097 2.099
+HETATM    0  O   HOH X   1       0.000  -2.097   2.099  1.00  33.00
+Improved center of mass at: 0.000 -2.376 1.741
+HETATM    0  O   HOH X   1       0.000  -2.376   1.741  1.00  34.00
+Improved center of mass at: 0.000 -2.649 1.214
+HETATM    0  O   HOH X   1       0.000  -2.649   1.214  1.00  35.00
+Improved center of mass at: 0.000 -1.800 0.766
+HETATM    0  O   HOH X   1       0.000  -1.800   0.766  1.00  36.00
+Improved center of mass at: 0.000 -2.749 1.683
+HETATM    0  O   HOH X   1       0.000  -2.749   1.683  1.00  38.00
+Improved center of mass at: 0.000 -2.155 1.805
+HETATM    0  O   HOH X   1       0.000  -2.155   1.805  1.00  39.00
+Improved center of mass at: 0.000 -2.164 1.483
+HETATM    0  O   HOH X   1       0.000  -2.164   1.483  1.00  40.00
+Improved center of mass at: 0.000 -2.067 0.984
+HETATM    0  O   HOH X   1       0.000  -2.067   0.984  1.00  41.00
+Improved center of mass at: 0.000 -1.876 0.678
+HETATM    0  O   HOH X   1       0.000  -1.876   0.678  1.00  42.00
+Improved center of mass at: 0.000 -2.919 1.509
+HETATM    0  O   HOH X   1       0.000  -2.919   1.509  1.00  44.00
+Improved center of mass at: 0.000 -2.117 1.620
+HETATM    0  O   HOH X   1       0.000  -2.117   1.620  1.00  45.00
+Improved center of mass at: 0.000 -2.285 1.193
+HETATM    0  O   HOH X   1       0.000  -2.285   1.193  1.00  46.00
+Improved center of mass at: 0.000 -2.067 0.984
+HETATM    0  O   HOH X   1       0.000  -2.067   0.984  1.00  47.00
+Improved center of mass at: 0.000 -1.876 0.678
+HETATM    0  O   HOH X   1       0.000  -1.876   0.678  1.00  48.00

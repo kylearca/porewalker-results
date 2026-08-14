@@ -1,0 +1,27 @@
+
+Calculating PDB structure length...
+PDB LENGTH = 366
+	366 PDB length stored
+
+Allocating memory for 3D data...
+
+Allocating memory for DISTMAT... 
+Reading PDB file...
+	PDB information stored
+
+	DISTMAT information stored
+
+Calculating secondary structure composition...
+	SS composition stored
+
+SSE N = 6 MAIN = 2
+
+Calculating roto-translation parameters...
+	ROTOTRANS parameters stored
+
+Writing roto-translated PDB file...
+
+Closing files...
+
+Program ended successfully
+

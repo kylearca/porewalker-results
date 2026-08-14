@@ -1,0 +1,5 @@
+    0.020300   -0.757516    0.652501    0.525624      <- Eqtn of plane
+   15.362000    0.016950    0.347300      <- Centre of gravity
+   19.000000    1.942000    1.897000      <- Extent of molecule
+    1.000000      <- Grid-spacing (mesh size)
+Q   <- (C)CP4, (I)nsightII, (Q)uanta, (S)ybyl contour files, or (N)one

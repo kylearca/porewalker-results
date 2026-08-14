@@ -1,0 +1,570 @@
+
+LOOP STARTS
+At loop beginning: Lowdist = 5.681049, lowdist_previous=0.000000, imp0=0.000000, imp1=0.000000, tmp_imp0=0.000000, tmp_imp1=0.000000
+Improved center of mass at: 0.000 -1.070 0.268
+NUmber of hits: 41
+
+With new IMP: Lowdist = 5.681049, lowdist_previous=5.681049
+At loop end: Lowdist = 5.681049, lowdist_previous=5.681049, imp0=-1.070488, imp1=0.268415, tmp_imp0=0.000000, tmp_imp1=0.000000
+
+LOOP ENDS
+
+LOOP STARTS
+At loop beginning: Lowdist = 6.701221, lowdist_previous=5.681049, imp0=-1.070488, imp1=0.268415, tmp_imp0=-1.070488, tmp_imp1=0.268415
+Improved center of mass at: 0.000 -1.988 0.484
+NUmber of hits: 49
+
+With new IMP: Lowdist = 6.294399, lowdist_previous=6.701221
+Lowdist < lowdist_previous, going back
+At loop end (to go back): Lowdist = 6.294399, lowdist_previous=6.701221, imp0=-1.070488, imp1=0.268415, tmp_imp0=-1.070488, tmp_imp1=0.268415
+Distance Threshold was raised to 7.000
+At loop end: Lowdist = 6.294399, lowdist_previous=6.701221, imp0=-1.070488, imp1=0.268415, tmp_imp0=-1.070388, tmp_imp1=0.268515
+
+LOOP ENDS
+
+LOOP STARTS
+At loop beginning: Lowdist = 6.701221, lowdist_previous=6.701221, imp0=-1.070488, imp1=0.268415, tmp_imp0=-1.070488, tmp_imp1=0.268415
+Improved center of mass at: 0.000 -1.242 0.986
+NUmber of hits: 64
+
+With new IMP: Lowdist = 6.418692, lowdist_previous=6.701221
+At loop end: Lowdist = 6.418692, lowdist_previous=6.418692, imp0=-1.241547, imp1=0.986078, tmp_imp0=-1.070488, tmp_imp1=0.268415
+
+LOOP ENDS
+
+LOOP STARTS
+At loop beginning: Lowdist = 6.418692, lowdist_previous=6.418692, imp0=-1.241547, imp1=0.986078, tmp_imp0=-1.241547, tmp_imp1=0.986078
+With new IMP: Lowdist = 5.215268, lowdist_previous=6.418692
+Lowdist < lowdist_previous, going back
+At loop end (to go back): Lowdist = 5.215268, lowdist_previous=6.418692, imp0=-1.241547, imp1=0.986078, tmp_imp0=-1.241547, tmp_imp1=0.986078
+Distance Threshold was raised to 7.000
+At loop end: Lowdist = 5.215268, lowdist_previous=6.418692, imp0=-1.241547, imp1=0.986078, tmp_imp0=-1.241447, tmp_imp1=0.986178
+
+LOOP ENDS
+
+LOOP STARTS
+At loop beginning: Lowdist = 6.418692, lowdist_previous=6.418692, imp0=-1.241547, imp1=0.986078, tmp_imp0=-1.241547, tmp_imp1=0.986078
+Improved center of mass at: 0.000 -2.009 1.877
+NUmber of hits: 62
+
+With new IMP: Lowdist = 5.248344, lowdist_previous=6.418692
+Lowdist < lowdist_previous, going back
+At loop end (to go back): Lowdist = 5.248344, lowdist_previous=6.418692, imp0=-1.241547, imp1=0.986078, tmp_imp0=-1.241547, tmp_imp1=0.986078
+Distance Threshold was raised to 8.000
+At loop end: Lowdist = 5.248344, lowdist_previous=6.418692, imp0=-1.241547, imp1=0.986078, tmp_imp0=-1.241447, tmp_imp1=0.986178
+
+LOOP ENDS
+
+LOOP STARTS
+At loop beginning: Lowdist = 6.418692, lowdist_previous=6.418692, imp0=-1.241547, imp1=0.986078, tmp_imp0=-1.241547, tmp_imp1=0.986078
+Improved center of mass at: 0.000 -1.912 2.077
+NUmber of hits: 74
+
+With new IMP: Lowdist = 5.187838, lowdist_previous=6.418692
+Lowdist < lowdist_previous, going back
+At loop end (to go back): Lowdist = 5.187838, lowdist_previous=6.418692, imp0=-1.241547, imp1=0.986078, tmp_imp0=-1.241547, tmp_imp1=0.986078
+Distance Threshold was raised to 9.000
+At loop end: Lowdist = 5.187838, lowdist_previous=6.418692, imp0=-1.241547, imp1=0.986078, tmp_imp0=-1.241447, tmp_imp1=0.986178
+
+LOOP ENDS
+
+LOOP STARTS
+At loop beginning: Lowdist = 6.418692, lowdist_previous=6.418692, imp0=-1.241547, imp1=0.986078, tmp_imp0=-1.241547, tmp_imp1=0.986078
+Improved center of mass at: 0.000 -1.350 1.548
+NUmber of hits: 82
+
+With new IMP: Lowdist = 5.958103, lowdist_previous=6.418692
+Lowdist < lowdist_previous, going back
+At loop end (to go back): Lowdist = 5.958103, lowdist_previous=6.418692, imp0=-1.241547, imp1=0.986078, tmp_imp0=-1.241547, tmp_imp1=0.986078
+Distance Threshold was raised to 10.000
+At loop end: Lowdist = 5.958103, lowdist_previous=6.418692, imp0=-1.241547, imp1=0.986078, tmp_imp0=-1.241447, tmp_imp1=0.986178
+
+LOOP ENDS
+
+LOOP STARTS
+At loop beginning: Lowdist = 6.418692, lowdist_previous=6.418692, imp0=-1.241547, imp1=0.986078, tmp_imp0=-1.241547, tmp_imp1=0.986078
+Improved center of mass at: 0.000 -1.182 1.162
+NUmber of hits: 91
+
+With new IMP: Lowdist = 6.341120, lowdist_previous=6.418692
+At loop end: Lowdist = 6.341120, lowdist_previous=6.341120, imp0=-1.182000, imp1=1.162022, tmp_imp0=-1.241547, tmp_imp1=0.986078
+
+LOOP ENDS
+
+LOOP STARTS
+At loop beginning: Lowdist = 6.341120, lowdist_previous=6.341120, imp0=-1.182000, imp1=1.162022, tmp_imp0=-1.182000, tmp_imp1=1.162022
+With new IMP: Lowdist = 4.524199, lowdist_previous=6.341120
+Lowdist < lowdist_previous, going back
+At loop end (to go back): Lowdist = 4.524199, lowdist_previous=6.341120, imp0=-1.182000, imp1=1.162022, tmp_imp0=-1.182000, tmp_imp1=1.162022
+Distance Threshold was raised to 7.000
+At loop end: Lowdist = 4.524199, lowdist_previous=6.341120, imp0=-1.182000, imp1=1.162022, tmp_imp0=-1.181900, tmp_imp1=1.162122
+
+LOOP ENDS
+
+LOOP STARTS
+At loop beginning: Lowdist = 6.341120, lowdist_previous=6.341120, imp0=-1.182000, imp1=1.162022, tmp_imp0=-1.182000, tmp_imp1=1.162022
+Improved center of mass at: 0.000 -2.247 2.458
+NUmber of hits: 58
+
+With new IMP: Lowdist = 4.685455, lowdist_previous=6.341120
+Lowdist < lowdist_previous, going back
+At loop end (to go back): Lowdist = 4.685455, lowdist_previous=6.341120, imp0=-1.182000, imp1=1.162022, tmp_imp0=-1.182000, tmp_imp1=1.162022
+Distance Threshold was raised to 8.000
+At loop end: Lowdist = 4.685455, lowdist_previous=6.341120, imp0=-1.182000, imp1=1.162022, tmp_imp0=-1.181900, tmp_imp1=1.162122
+
+LOOP ENDS
+
+LOOP STARTS
+At loop beginning: Lowdist = 6.341120, lowdist_previous=6.341120, imp0=-1.182000, imp1=1.162022, tmp_imp0=-1.182000, tmp_imp1=1.162022
+Improved center of mass at: 0.000 -2.021 2.091
+NUmber of hits: 73
+
+With new IMP: Lowdist = 5.095476, lowdist_previous=6.341120
+Lowdist < lowdist_previous, going back
+At loop end (to go back): Lowdist = 5.095476, lowdist_previous=6.341120, imp0=-1.182000, imp1=1.162022, tmp_imp0=-1.182000, tmp_imp1=1.162022
+Distance Threshold was raised to 9.000
+At loop end: Lowdist = 5.095476, lowdist_previous=6.341120, imp0=-1.182000, imp1=1.162022, tmp_imp0=-1.181900, tmp_imp1=1.162122
+
+LOOP ENDS
+
+LOOP STARTS
+At loop beginning: Lowdist = 6.341120, lowdist_previous=6.341120, imp0=-1.182000, imp1=1.162022, tmp_imp0=-1.182000, tmp_imp1=1.162022
+Improved center of mass at: 0.000 -1.502 1.746
+NUmber of hits: 80
+
+With new IMP: Lowdist = 5.714238, lowdist_previous=6.341120
+Lowdist < lowdist_previous, going back
+At loop end (to go back): Lowdist = 5.714238, lowdist_previous=6.341120, imp0=-1.182000, imp1=1.162022, tmp_imp0=-1.182000, tmp_imp1=1.162022
+Distance Threshold was raised to 10.000
+At loop end: Lowdist = 5.714238, lowdist_previous=6.341120, imp0=-1.182000, imp1=1.162022, tmp_imp0=-1.181900, tmp_imp1=1.162122
+
+LOOP ENDS
+
+LOOP STARTS
+At loop beginning: Lowdist = 6.341120, lowdist_previous=6.341120, imp0=-1.182000, imp1=1.162022, tmp_imp0=-1.182000, tmp_imp1=1.162022
+Improved center of mass at: 0.000 -1.263 1.164
+NUmber of hits: 90
+
+With new IMP: Lowdist = 6.280724, lowdist_previous=6.341120
+At loop end: Lowdist = 6.280724, lowdist_previous=6.280724, imp0=-1.262834, imp1=1.163711, tmp_imp0=-1.182000, tmp_imp1=1.162022
+
+LOOP ENDS
+
+LOOP STARTS
+At loop beginning: Lowdist = 6.280724, lowdist_previous=6.280724, imp0=-1.262834, imp1=1.163711, tmp_imp0=-1.262834, tmp_imp1=1.163711
+With new IMP: Lowdist = 4.524199, lowdist_previous=6.280724
+Lowdist < lowdist_previous, going back
+At loop end (to go back): Lowdist = 4.524199, lowdist_previous=6.280724, imp0=-1.262834, imp1=1.163711, tmp_imp0=-1.262834, tmp_imp1=1.163711
+Distance Threshold was raised to 7.000
+At loop end: Lowdist = 4.524199, lowdist_previous=6.280724, imp0=-1.262834, imp1=1.163711, tmp_imp0=-1.262734, tmp_imp1=1.163811
+
+LOOP ENDS
+
+LOOP STARTS
+At loop beginning: Lowdist = 6.280724, lowdist_previous=6.280724, imp0=-1.262834, imp1=1.163711, tmp_imp0=-1.262834, tmp_imp1=1.163711
+Improved center of mass at: 0.000 -2.477 2.385
+NUmber of hits: 57
+
+With new IMP: Lowdist = 4.560416, lowdist_previous=6.280724
+Lowdist < lowdist_previous, going back
+At loop end (to go back): Lowdist = 4.560416, lowdist_previous=6.280724, imp0=-1.262834, imp1=1.163711, tmp_imp0=-1.262834, tmp_imp1=1.163711
+Distance Threshold was raised to 8.000
+At loop end: Lowdist = 4.560416, lowdist_previous=6.280724, imp0=-1.262834, imp1=1.163711, tmp_imp0=-1.262734, tmp_imp1=1.163811
+
+LOOP ENDS
+
+LOOP STARTS
+At loop beginning: Lowdist = 6.280724, lowdist_previous=6.280724, imp0=-1.262834, imp1=1.163711, tmp_imp0=-1.262834, tmp_imp1=1.163711
+Improved center of mass at: 0.000 -2.021 2.091
+NUmber of hits: 73
+
+With new IMP: Lowdist = 5.095476, lowdist_previous=6.280724
+Lowdist < lowdist_previous, going back
+At loop end (to go back): Lowdist = 5.095476, lowdist_previous=6.280724, imp0=-1.262834, imp1=1.163711, tmp_imp0=-1.262834, tmp_imp1=1.163711
+Distance Threshold was raised to 9.000
+At loop end: Lowdist = 5.095476, lowdist_previous=6.280724, imp0=-1.262834, imp1=1.163711, tmp_imp0=-1.262734, tmp_imp1=1.163811
+
+LOOP ENDS
+
+LOOP STARTS
+At loop beginning: Lowdist = 6.280724, lowdist_previous=6.280724, imp0=-1.262834, imp1=1.163711, tmp_imp0=-1.262834, tmp_imp1=1.163711
+Improved center of mass at: 0.000 -1.502 1.746
+NUmber of hits: 80
+
+With new IMP: Lowdist = 5.714238, lowdist_previous=6.280724
+Lowdist < lowdist_previous, going back
+At loop end (to go back): Lowdist = 5.714238, lowdist_previous=6.280724, imp0=-1.262834, imp1=1.163711, tmp_imp0=-1.262834, tmp_imp1=1.163711
+Distance Threshold was raised to 10.000
+At loop end: Lowdist = 5.714238, lowdist_previous=6.280724, imp0=-1.262834, imp1=1.163711, tmp_imp0=-1.262734, tmp_imp1=1.163811
+
+LOOP ENDS
+
+LOOP STARTS
+At loop beginning: Lowdist = 6.280724, lowdist_previous=6.280724, imp0=-1.262834, imp1=1.163711, tmp_imp0=-1.262834, tmp_imp1=1.163711
+Improved center of mass at: 0.000 -1.561 1.103
+NUmber of hits: 88
+
+With new IMP: Lowdist = 6.109494, lowdist_previous=6.280724
+At loop end: Lowdist = 6.109494, lowdist_previous=6.109494, imp0=-1.561296, imp1=1.102830, tmp_imp0=-1.262834, tmp_imp1=1.163711
+
+LOOP ENDS
+
+LOOP STARTS
+At loop beginning: Lowdist = 6.109494, lowdist_previous=6.109494, imp0=-1.561296, imp1=1.102830, tmp_imp0=-1.561296, tmp_imp1=1.102830
+With new IMP: Lowdist = 4.824032, lowdist_previous=6.109494
+Lowdist < lowdist_previous, going back
+At loop end (to go back): Lowdist = 4.824032, lowdist_previous=6.109494, imp0=-1.561296, imp1=1.102830, tmp_imp0=-1.561296, tmp_imp1=1.102830
+Distance Threshold was raised to 7.000
+At loop end: Lowdist = 4.824032, lowdist_previous=6.109494, imp0=-1.561296, imp1=1.102830, tmp_imp0=-1.561196, tmp_imp1=1.102930
+
+LOOP ENDS
+
+LOOP STARTS
+At loop beginning: Lowdist = 6.109494, lowdist_previous=6.109494, imp0=-1.561296, imp1=1.102830, tmp_imp0=-1.561296, tmp_imp1=1.102830
+Improved center of mass at: 0.000 -2.311 2.298
+NUmber of hits: 56
+
+With new IMP: Lowdist = 4.742027, lowdist_previous=6.109494
+Lowdist < lowdist_previous, going back
+At loop end (to go back): Lowdist = 4.742027, lowdist_previous=6.109494, imp0=-1.561296, imp1=1.102830, tmp_imp0=-1.561296, tmp_imp1=1.102830
+Distance Threshold was raised to 8.000
+At loop end: Lowdist = 4.742027, lowdist_previous=6.109494, imp0=-1.561296, imp1=1.102830, tmp_imp0=-1.561196, tmp_imp1=1.102930
+
+LOOP ENDS
+
+LOOP STARTS
+At loop beginning: Lowdist = 6.109494, lowdist_previous=6.109494, imp0=-1.561296, imp1=1.102830, tmp_imp0=-1.561296, tmp_imp1=1.102830
+Improved center of mass at: 0.000 -2.275 1.817
+NUmber of hits: 69
+
+With new IMP: Lowdist = 5.100275, lowdist_previous=6.109494
+Lowdist < lowdist_previous, going back
+At loop end (to go back): Lowdist = 5.100275, lowdist_previous=6.109494, imp0=-1.561296, imp1=1.102830, tmp_imp0=-1.561296, tmp_imp1=1.102830
+Distance Threshold was raised to 9.000
+At loop end: Lowdist = 5.100275, lowdist_previous=6.109494, imp0=-1.561296, imp1=1.102830, tmp_imp0=-1.561196, tmp_imp1=1.102930
+
+LOOP ENDS
+
+LOOP STARTS
+At loop beginning: Lowdist = 6.109494, lowdist_previous=6.109494, imp0=-1.561296, imp1=1.102830, tmp_imp0=-1.561296, tmp_imp1=1.102830
+Improved center of mass at: 0.000 -1.891 1.995
+NUmber of hits: 76
+
+With new IMP: Lowdist = 5.256379, lowdist_previous=6.109494
+Lowdist < lowdist_previous, going back
+At loop end (to go back): Lowdist = 5.256379, lowdist_previous=6.109494, imp0=-1.561296, imp1=1.102830, tmp_imp0=-1.561296, tmp_imp1=1.102830
+Distance Threshold was raised to 10.000
+At loop end: Lowdist = 5.256379, lowdist_previous=6.109494, imp0=-1.561296, imp1=1.102830, tmp_imp0=-1.561196, tmp_imp1=1.102930
+
+LOOP ENDS
+
+LOOP STARTS
+At loop beginning: Lowdist = 6.109494, lowdist_previous=6.109494, imp0=-1.561296, imp1=1.102830, tmp_imp0=-1.561296, tmp_imp1=1.102830
+Improved center of mass at: 0.000 -1.715 1.301
+NUmber of hits: 85
+
+With new IMP: Lowdist = 5.859897, lowdist_previous=6.109494
+At loop end: Lowdist = 5.859897, lowdist_previous=5.859897, imp0=-1.715389, imp1=1.301494, tmp_imp0=-1.561296, tmp_imp1=1.102830
+
+LOOP ENDS
+
+LOOP STARTS
+At loop beginning: Lowdist = 5.859897, lowdist_previous=5.859897, imp0=-1.715389, imp1=1.301494, tmp_imp0=-1.715389, tmp_imp1=1.301494
+With new IMP: Lowdist = 3.126964, lowdist_previous=5.859897
+Lowdist < lowdist_previous, going back
+At loop end (to go back): Lowdist = 3.126964, lowdist_previous=5.859897, imp0=-1.715389, imp1=1.301494, tmp_imp0=-1.715389, tmp_imp1=1.301494
+Distance Threshold was raised to 7.000
+At loop end: Lowdist = 3.126964, lowdist_previous=5.859897, imp0=-1.715389, imp1=1.301494, tmp_imp0=-1.715289, tmp_imp1=1.301594
+
+LOOP ENDS
+
+LOOP STARTS
+At loop beginning: Lowdist = 5.859897, lowdist_previous=5.859897, imp0=-1.715389, imp1=1.301494, tmp_imp0=-1.715389, tmp_imp1=1.301494
+Improved center of mass at: 0.000 -3.329 2.515
+NUmber of hits: 53
+
+With new IMP: Lowdist = 3.871839, lowdist_previous=5.859897
+Lowdist < lowdist_previous, going back
+At loop end (to go back): Lowdist = 3.871839, lowdist_previous=5.859897, imp0=-1.715389, imp1=1.301494, tmp_imp0=-1.715389, tmp_imp1=1.301494
+Distance Threshold was raised to 8.000
+At loop end: Lowdist = 3.871839, lowdist_previous=5.859897, imp0=-1.715389, imp1=1.301494, tmp_imp0=-1.715289, tmp_imp1=1.301594
+
+LOOP ENDS
+
+LOOP STARTS
+At loop beginning: Lowdist = 5.859897, lowdist_previous=5.859897, imp0=-1.715389, imp1=1.301494, tmp_imp0=-1.715389, tmp_imp1=1.301494
+Improved center of mass at: 0.000 -2.968 2.572
+NUmber of hits: 66
+
+With new IMP: Lowdist = 4.076128, lowdist_previous=5.859897
+Lowdist < lowdist_previous, going back
+At loop end (to go back): Lowdist = 4.076128, lowdist_previous=5.859897, imp0=-1.715389, imp1=1.301494, tmp_imp0=-1.715389, tmp_imp1=1.301494
+Distance Threshold was raised to 9.000
+At loop end: Lowdist = 4.076128, lowdist_previous=5.859897, imp0=-1.715389, imp1=1.301494, tmp_imp0=-1.715289, tmp_imp1=1.301594
+
+LOOP ENDS
+
+LOOP STARTS
+At loop beginning: Lowdist = 5.859897, lowdist_previous=5.859897, imp0=-1.715389, imp1=1.301494, tmp_imp0=-1.715389, tmp_imp1=1.301494
+Improved center of mass at: 0.000 -2.066 2.273
+NUmber of hits: 74
+
+With new IMP: Lowdist = 4.943049, lowdist_previous=5.859897
+Lowdist < lowdist_previous, going back
+At loop end (to go back): Lowdist = 4.943049, lowdist_previous=5.859897, imp0=-1.715389, imp1=1.301494, tmp_imp0=-1.715389, tmp_imp1=1.301494
+Distance Threshold was raised to 10.000
+At loop end: Lowdist = 4.943049, lowdist_previous=5.859897, imp0=-1.715389, imp1=1.301494, tmp_imp0=-1.715289, tmp_imp1=1.301594
+
+LOOP ENDS
+
+LOOP STARTS
+At loop beginning: Lowdist = 5.859897, lowdist_previous=5.859897, imp0=-1.715389, imp1=1.301494, tmp_imp0=-1.715389, tmp_imp1=1.301494
+Improved center of mass at: 0.000 -1.935 1.535
+NUmber of hits: 85
+
+With new IMP: Lowdist = 5.539501, lowdist_previous=5.859897
+Lowdist < lowdist_previous, going back
+At loop end (to go back): Lowdist = 5.539501, lowdist_previous=5.859897, imp0=-1.715389, imp1=1.301494, tmp_imp0=-1.715389, tmp_imp1=1.301494
+Distance Threshold was raised to 11.000
+At loop end: Lowdist = 5.539501, lowdist_previous=5.859897, imp0=-1.715389, imp1=1.301494, tmp_imp0=-1.715289, tmp_imp1=1.301594
+
+LOOP ENDS
+
+LOOP STARTS
+At loop beginning: Lowdist = 5.859897, lowdist_previous=5.859897, imp0=-1.715389, imp1=1.301494, tmp_imp0=-1.715389, tmp_imp1=1.301494
+Improved center of mass at: 0.000 -2.040 1.178
+NUmber of hits: 95
+
+With new IMP: Lowdist = 5.727270, lowdist_previous=5.859897
+At loop end: Lowdist = 5.727270, lowdist_previous=5.727270, imp0=-2.039927, imp1=1.178126, tmp_imp0=-1.715389, tmp_imp1=1.301494
+
+LOOP ENDS
+
+LOOP STARTS
+At loop beginning: Lowdist = 5.727270, lowdist_previous=5.727270, imp0=-2.039927, imp1=1.178126, tmp_imp0=-2.039927, tmp_imp1=1.178126
+With new IMP: Lowdist = 3.132023, lowdist_previous=5.727270
+Lowdist < lowdist_previous, going back
+At loop end (to go back): Lowdist = 3.132023, lowdist_previous=5.727270, imp0=-2.039927, imp1=1.178126, tmp_imp0=-2.039927, tmp_imp1=1.178126
+Distance Threshold was raised to 7.000
+At loop end: Lowdist = 3.132023, lowdist_previous=5.727270, imp0=-2.039927, imp1=1.178126, tmp_imp0=-2.039827, tmp_imp1=1.178226
+
+LOOP ENDS
+
+LOOP STARTS
+At loop beginning: Lowdist = 5.727270, lowdist_previous=5.727270, imp0=-2.039927, imp1=1.178126, tmp_imp0=-2.039927, tmp_imp1=1.178126
+Improved center of mass at: 0.000 -3.360 2.019
+NUmber of hits: 50
+
+With new IMP: Lowdist = 4.243443, lowdist_previous=5.727270
+Lowdist < lowdist_previous, going back
+At loop end (to go back): Lowdist = 4.243443, lowdist_previous=5.727270, imp0=-2.039927, imp1=1.178126, tmp_imp0=-2.039927, tmp_imp1=1.178126
+Distance Threshold was raised to 8.000
+At loop end: Lowdist = 4.243443, lowdist_previous=5.727270, imp0=-2.039927, imp1=1.178126, tmp_imp0=-2.039827, tmp_imp1=1.178226
+
+LOOP ENDS
+
+LOOP STARTS
+At loop beginning: Lowdist = 5.727270, lowdist_previous=5.727270, imp0=-2.039927, imp1=1.178126, tmp_imp0=-2.039927, tmp_imp1=1.178126
+Improved center of mass at: 0.000 -3.190 2.635
+NUmber of hits: 63
+
+With new IMP: Lowdist = 3.876131, lowdist_previous=5.727270
+Lowdist < lowdist_previous, going back
+At loop end (to go back): Lowdist = 3.876131, lowdist_previous=5.727270, imp0=-2.039927, imp1=1.178126, tmp_imp0=-2.039927, tmp_imp1=1.178126
+Distance Threshold was raised to 9.000
+At loop end: Lowdist = 3.876131, lowdist_previous=5.727270, imp0=-2.039927, imp1=1.178126, tmp_imp0=-2.039827, tmp_imp1=1.178226
+
+LOOP ENDS
+
+LOOP STARTS
+At loop beginning: Lowdist = 5.727270, lowdist_previous=5.727270, imp0=-2.039927, imp1=1.178126, tmp_imp0=-2.039927, tmp_imp1=1.178126
+Improved center of mass at: 0.000 -2.097 2.099
+NUmber of hits: 72
+
+With new IMP: Lowdist = 5.033829, lowdist_previous=5.727270
+Lowdist < lowdist_previous, going back
+At loop end (to go back): Lowdist = 5.033829, lowdist_previous=5.727270, imp0=-2.039927, imp1=1.178126, tmp_imp0=-2.039927, tmp_imp1=1.178126
+Distance Threshold was raised to 10.000
+At loop end: Lowdist = 5.033829, lowdist_previous=5.727270, imp0=-2.039927, imp1=1.178126, tmp_imp0=-2.039827, tmp_imp1=1.178226
+
+LOOP ENDS
+
+LOOP STARTS
+At loop beginning: Lowdist = 5.727270, lowdist_previous=5.727270, imp0=-2.039927, imp1=1.178126, tmp_imp0=-2.039927, tmp_imp1=1.178126
+Improved center of mass at: 0.000 -2.376 1.741
+NUmber of hits: 80
+
+With new IMP: Lowdist = 5.084981, lowdist_previous=5.727270
+Lowdist < lowdist_previous, going back
+At loop end (to go back): Lowdist = 5.084981, lowdist_previous=5.727270, imp0=-2.039927, imp1=1.178126, tmp_imp0=-2.039927, tmp_imp1=1.178126
+Distance Threshold was raised to 11.000
+At loop end: Lowdist = 5.084981, lowdist_previous=5.727270, imp0=-2.039927, imp1=1.178126, tmp_imp0=-2.039827, tmp_imp1=1.178226
+
+LOOP ENDS
+
+LOOP STARTS
+At loop beginning: Lowdist = 5.727270, lowdist_previous=5.727270, imp0=-2.039927, imp1=1.178126, tmp_imp0=-2.039927, tmp_imp1=1.178126
+Improved center of mass at: 0.000 -2.649 1.214
+NUmber of hits: 89
+
+With new IMP: Lowdist = 5.312922, lowdist_previous=5.727270
+Lowdist < lowdist_previous, going back
+At loop end (to go back): Lowdist = 5.312922, lowdist_previous=5.727270, imp0=-2.039927, imp1=1.178126, tmp_imp0=-2.039927, tmp_imp1=1.178126
+Distance Threshold was raised to 12.000
+At loop end: Lowdist = 5.312922, lowdist_previous=5.727270, imp0=-2.039927, imp1=1.178126, tmp_imp0=-2.039827, tmp_imp1=1.178226
+
+LOOP ENDS
+
+LOOP STARTS
+At loop beginning: Lowdist = 5.727270, lowdist_previous=5.727270, imp0=-2.039927, imp1=1.178126, tmp_imp0=-2.039927, tmp_imp1=1.178126
+Improved center of mass at: 0.000 -1.800 0.766
+NUmber of hits: 96
+
+With new IMP: Lowdist = 5.727270, lowdist_previous=5.727270
+At loop end: Lowdist = 5.727270, lowdist_previous=5.727270, imp0=-1.799823, imp1=0.766240, tmp_imp0=-2.039927, tmp_imp1=1.178126
+
+LOOP ENDS
+
+LOOP STARTS
+At loop beginning: Lowdist = 6.195288, lowdist_previous=5.727270, imp0=-1.799823, imp1=0.766240, tmp_imp0=-1.799823, tmp_imp1=0.766240
+With new IMP: Lowdist = 5.055634, lowdist_previous=6.195288
+Lowdist < lowdist_previous, going back
+At loop end (to go back): Lowdist = 5.055634, lowdist_previous=6.195288, imp0=-1.799823, imp1=0.766240, tmp_imp0=-1.799823, tmp_imp1=0.766240
+Distance Threshold was raised to 7.000
+At loop end: Lowdist = 5.055634, lowdist_previous=6.195288, imp0=-1.799823, imp1=0.766240, tmp_imp0=-1.799723, tmp_imp1=0.766340
+
+LOOP ENDS
+
+LOOP STARTS
+At loop beginning: Lowdist = 6.195288, lowdist_previous=6.195288, imp0=-1.799823, imp1=0.766240, tmp_imp0=-1.799823, tmp_imp1=0.766240
+Improved center of mass at: 0.000 -2.749 1.683
+NUmber of hits: 55
+
+With new IMP: Lowdist = 4.882549, lowdist_previous=6.195288
+Lowdist < lowdist_previous, going back
+At loop end (to go back): Lowdist = 4.882549, lowdist_previous=6.195288, imp0=-1.799823, imp1=0.766240, tmp_imp0=-1.799823, tmp_imp1=0.766240
+Distance Threshold was raised to 8.000
+At loop end: Lowdist = 4.882549, lowdist_previous=6.195288, imp0=-1.799823, imp1=0.766240, tmp_imp0=-1.799723, tmp_imp1=0.766340
+
+LOOP ENDS
+
+LOOP STARTS
+At loop beginning: Lowdist = 6.195288, lowdist_previous=6.195288, imp0=-1.799823, imp1=0.766240, tmp_imp0=-1.799823, tmp_imp1=0.766240
+Improved center of mass at: 0.000 -2.155 1.805
+NUmber of hits: 70
+
+With new IMP: Lowdist = 5.192826, lowdist_previous=6.195288
+Lowdist < lowdist_previous, going back
+At loop end (to go back): Lowdist = 5.192826, lowdist_previous=6.195288, imp0=-1.799823, imp1=0.766240, tmp_imp0=-1.799823, tmp_imp1=0.766240
+Distance Threshold was raised to 9.000
+At loop end: Lowdist = 5.192826, lowdist_previous=6.195288, imp0=-1.799823, imp1=0.766240, tmp_imp0=-1.799723, tmp_imp1=0.766340
+
+LOOP ENDS
+
+LOOP STARTS
+At loop beginning: Lowdist = 6.195288, lowdist_previous=6.195288, imp0=-1.799823, imp1=0.766240, tmp_imp0=-1.799823, tmp_imp1=0.766240
+Improved center of mass at: 0.000 -2.164 1.483
+NUmber of hits: 78
+
+With new IMP: Lowdist = 5.417972, lowdist_previous=6.195288
+Lowdist < lowdist_previous, going back
+At loop end (to go back): Lowdist = 5.417972, lowdist_previous=6.195288, imp0=-1.799823, imp1=0.766240, tmp_imp0=-1.799823, tmp_imp1=0.766240
+Distance Threshold was raised to 10.000
+At loop end: Lowdist = 5.417972, lowdist_previous=6.195288, imp0=-1.799823, imp1=0.766240, tmp_imp0=-1.799723, tmp_imp1=0.766340
+
+LOOP ENDS
+
+LOOP STARTS
+At loop beginning: Lowdist = 6.195288, lowdist_previous=6.195288, imp0=-1.799823, imp1=0.766240, tmp_imp0=-1.799823, tmp_imp1=0.766240
+Improved center of mass at: 0.000 -2.067 0.984
+NUmber of hits: 87
+
+With new IMP: Lowdist = 5.856286, lowdist_previous=6.195288
+Lowdist < lowdist_previous, going back
+At loop end (to go back): Lowdist = 5.856286, lowdist_previous=6.195288, imp0=-1.799823, imp1=0.766240, tmp_imp0=-1.799823, tmp_imp1=0.766240
+Distance Threshold was raised to 11.000
+At loop end: Lowdist = 5.856286, lowdist_previous=6.195288, imp0=-1.799823, imp1=0.766240, tmp_imp0=-1.799723, tmp_imp1=0.766340
+
+LOOP ENDS
+
+LOOP STARTS
+At loop beginning: Lowdist = 6.195288, lowdist_previous=6.195288, imp0=-1.799823, imp1=0.766240, tmp_imp0=-1.799823, tmp_imp1=0.766240
+Improved center of mass at: 0.000 -1.876 0.678
+NUmber of hits: 96
+
+With new IMP: Lowdist = 6.195288, lowdist_previous=6.195288
+At loop end: Lowdist = 6.195288, lowdist_previous=6.195288, imp0=-1.875864, imp1=0.678188, tmp_imp0=-1.799823, tmp_imp1=0.766240
+
+LOOP ENDS
+
+LOOP STARTS
+At loop beginning: Lowdist = 6.213320, lowdist_previous=6.195288, imp0=-1.875864, imp1=0.678188, tmp_imp0=-1.875864, tmp_imp1=0.678188
+With new IMP: Lowdist = 5.055634, lowdist_previous=6.213320
+Lowdist < lowdist_previous, going back
+At loop end (to go back): Lowdist = 5.055634, lowdist_previous=6.213320, imp0=-1.875864, imp1=0.678188, tmp_imp0=-1.875864, tmp_imp1=0.678188
+Distance Threshold was raised to 7.000
+At loop end: Lowdist = 5.055634, lowdist_previous=6.213320, imp0=-1.875864, imp1=0.678188, tmp_imp0=-1.875764, tmp_imp1=0.678288
+
+LOOP ENDS
+
+LOOP STARTS
+At loop beginning: Lowdist = 6.213320, lowdist_previous=6.213320, imp0=-1.875864, imp1=0.678188, tmp_imp0=-1.875864, tmp_imp1=0.678188
+Improved center of mass at: 0.000 -2.919 1.509
+NUmber of hits: 54
+
+With new IMP: Lowdist = 4.915217, lowdist_previous=6.213320
+Lowdist < lowdist_previous, going back
+At loop end (to go back): Lowdist = 4.915217, lowdist_previous=6.213320, imp0=-1.875864, imp1=0.678188, tmp_imp0=-1.875864, tmp_imp1=0.678188
+Distance Threshold was raised to 8.000
+At loop end: Lowdist = 4.915217, lowdist_previous=6.213320, imp0=-1.875864, imp1=0.678188, tmp_imp0=-1.875764, tmp_imp1=0.678288
+
+LOOP ENDS
+
+LOOP STARTS
+At loop beginning: Lowdist = 6.213320, lowdist_previous=6.213320, imp0=-1.875864, imp1=0.678188, tmp_imp0=-1.875864, tmp_imp1=0.678188
+Improved center of mass at: 0.000 -2.117 1.620
+NUmber of hits: 69
+
+With new IMP: Lowdist = 5.351372, lowdist_previous=6.213320
+Lowdist < lowdist_previous, going back
+At loop end (to go back): Lowdist = 5.351372, lowdist_previous=6.213320, imp0=-1.875864, imp1=0.678188, tmp_imp0=-1.875864, tmp_imp1=0.678188
+Distance Threshold was raised to 9.000
+At loop end: Lowdist = 5.351372, lowdist_previous=6.213320, imp0=-1.875864, imp1=0.678188, tmp_imp0=-1.875764, tmp_imp1=0.678288
+
+LOOP ENDS
+
+LOOP STARTS
+At loop beginning: Lowdist = 6.213320, lowdist_previous=6.213320, imp0=-1.875864, imp1=0.678188, tmp_imp0=-1.875864, tmp_imp1=0.678188
+Improved center of mass at: 0.000 -2.285 1.193
+NUmber of hits: 78
+
+With new IMP: Lowdist = 5.555962, lowdist_previous=6.213320
+Lowdist < lowdist_previous, going back
+At loop end (to go back): Lowdist = 5.555962, lowdist_previous=6.213320, imp0=-1.875864, imp1=0.678188, tmp_imp0=-1.875864, tmp_imp1=0.678188
+Distance Threshold was raised to 10.000
+At loop end: Lowdist = 5.555962, lowdist_previous=6.213320, imp0=-1.875864, imp1=0.678188, tmp_imp0=-1.875764, tmp_imp1=0.678288
+
+LOOP ENDS
+
+LOOP STARTS
+At loop beginning: Lowdist = 6.213320, lowdist_previous=6.213320, imp0=-1.875864, imp1=0.678188, tmp_imp0=-1.875864, tmp_imp1=0.678188
+Improved center of mass at: 0.000 -2.067 0.984
+NUmber of hits: 87
+
+With new IMP: Lowdist = 5.856286, lowdist_previous=6.213320
+Lowdist < lowdist_previous, going back
+At loop end (to go back): Lowdist = 5.856286, lowdist_previous=6.213320, imp0=-1.875864, imp1=0.678188, tmp_imp0=-1.875864, tmp_imp1=0.678188
+Distance Threshold was raised to 11.000
+At loop end: Lowdist = 5.856286, lowdist_previous=6.213320, imp0=-1.875864, imp1=0.678188, tmp_imp0=-1.875764, tmp_imp1=0.678288
+
+LOOP ENDS
+
+LOOP STARTS
+At loop beginning: Lowdist = 6.213320, lowdist_previous=6.213320, imp0=-1.875864, imp1=0.678188, tmp_imp0=-1.875864, tmp_imp1=0.678188
+Improved center of mass at: 0.000 -1.876 0.678
+NUmber of hits: 96
+
+With new IMP: Lowdist = 6.213320, lowdist_previous=6.213320
+At loop end: Lowdist = 6.213320, lowdist_previous=6.213320, imp0=-1.875864, imp1=0.678188, tmp_imp0=-1.875864, tmp_imp1=0.678188
+
+LOOP ENDS

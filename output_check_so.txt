@@ -1,0 +1,4 @@
+Output chikv6khexamer-rotoevo.pdb: errors ok
+Output chikv6khexamer-rotoevo.pdb: atoms ok
+Output chikv6khexamer-Original_rototranslated.pdb: errors ok
+Output chikv6khexamer-Original_rototranslated.pdb: atoms ok

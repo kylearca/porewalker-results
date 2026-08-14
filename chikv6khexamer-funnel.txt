@@ -1,0 +1,61 @@
+List 0 (diameter -27.000000): 33.144608
+List 1 (diameter -24.000000): 28.116222
+List 2 (diameter -21.000000): 24.466463
+List 3 (diameter -18.000000): 26.411188
+List 4 (diameter -15.000000): 27.995785
+List 5 (diameter -12.000000): 21.002981
+List 6 (diameter -9.000000): 24.355738
+List 7 (diameter -6.000000): 18.447910
+List 8 (diameter -3.000000): 13.413055
+List 9 (diameter 0.000000): 12.554739
+List 10 (diameter 3.000000): 15.547178
+List 11 (diameter 6.000000): 13.288898
+List 12 (diameter 9.000000): 15.234232
+List 13 (diameter 12.000000): 8.699552
+List 14 (diameter 15.000000): 13.647969
+List 15 (diameter 18.000000): 11.925020
+List 16 (diameter 21.000000): 15.657387
+List 17 (diameter 24.000000): 16.723906
+List 18 (diameter 27.000000): 20.282681
+33.144608 26.411188
+0 0	3	6.733419	6.733419	0.617006	 Down
+27.995785 12.554739
+1 4	9	15.441046	22.174465	0.782068	 Down
+8.699552 16.723906
+2 13	17	-8.024354	14.150111	0.725527	 Up
+String: DDDDDDDDDD000UUUUU0
+Short String: DU
+
+List 0 (diameter 24.000000): 16.723906
+List 1 (diameter 21.000000): 15.657387
+List 2 (diameter 18.000000): 11.925020
+List 3 (diameter 15.000000): 13.647969
+List 4 (diameter 12.000000): 8.699552
+List 5 (diameter 9.000000): 15.234232
+List 6 (diameter 6.000000): 13.288898
+List 7 (diameter 3.000000): 15.547178
+List 8 (diameter 0.000000): 12.554739
+List 9 (diameter -3.000000): 13.413055
+List 10 (diameter -6.000000): 18.447910
+List 11 (diameter -9.000000): 24.355738
+List 12 (diameter -12.000000): 21.002981
+List 13 (diameter -15.000000): 27.995785
+List 14 (diameter -18.000000): 26.411188
+List 15 (diameter -21.000000): 24.466463
+List 16 (diameter -24.000000): 28.116222
+List 17 (diameter -27.000000): 33.144608
+List 18 (diameter 27.000000): 20.282681
+16.723906 8.699552
+0 0	4	8.024354	8.024354	0.725527	 Down
+12.554739 24.355738
+1 8	11	-11.800999	-3.776645	0.829770	 Up
+18.447910 26.411188
+2 10	14	-7.963278	-11.739923	0.600000	 Up
+26.411188 33.144608
+3 14	17	-6.733419	-18.473343	0.617006	 Up
+String: DDDDD000UUUUUUUUUU0
+Short String: DU
+Consensus:DDDDDDDDDD000UUUUU
+Con Short String: DSU
+Con Short String 2: DSU
+

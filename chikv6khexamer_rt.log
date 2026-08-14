@@ -1,0 +1,127 @@
+	Structure length = 366
+
+Calculating distance matrix...
+
+Seconday structures: H = 6, B = 0
+Secondary structures long enough for bundle deifinition: H = 6, B = 0
+MAINLY HELICAL: Helices > 15aa = 6, Strands > 10aa = 0
+
+6 Helices in PDB file:
+
+	H 1 from 17 to 58, length = 42
+	H 2 from 78 to 119, length = 42
+	H 3 from 139 to 180, length = 42
+	H 4 from 200 to 241, length = 42
+	H 5 from 261 to 302, length = 42
+	H 6 from 322 to 362, length = 41
+
+
+HELIX 1: too short (Length = 42)
+	New SNUM = 5
+
+
+HELIX 1: too short (Length = 42)
+	New SNUM = 4
+
+
+HELIX 1: too short (Length = 42)
+	New SNUM = 3
+
+
+HELIX 1: too short (Length = 42)
+	New SNUM = 2
+
+
+HELIX 1: too short (Length = 42)
+	New SNUM = 1
+
+
+HELIX 1: too short (Length = 41)
+	New SNUM = 0
+
+
+WARNING: No helix > 16 && < 32 aa
+
+
+Recovered HELIX 1:
+	Centre of mass 1 (origin): aa1 = 17 aa2 = 18 aa3 = 19 aa4 = 20
+		coords: x = 16.557 y = -16.996 z = 10.775
+	Centre of mass 2: aa5 = 55 aa6 = 56 aa7 = 57 aa8 = 58
+		coords: x = -33.336 y = -11.047 z = -8.151
+	Axis direction = -49.893 5.950 -18.926
+
+
+Recovered HELIX 2:
+	Centre of mass 1 (origin): aa1 = 17 aa2 = 18 aa3 = 19 aa4 = 20
+		coords: x = 18.731 y = -2.608 z = -18.090
+	Centre of mass 2: aa5 = 55 aa6 = 56 aa7 = 57 aa8 = 58
+		coords: x = -32.516 y = 10.277 z = -10.379
+	Axis direction = -51.246 12.885 7.710
+
+
+Recovered HELIX 3:
+	Centre of mass 1 (origin): aa1 = 17 aa2 = 18 aa3 = 19 aa4 = 20
+		coords: x = 20.723 y = -15.633 z = -6.886
+	Centre of mass 2: aa5 = 55 aa6 = 56 aa7 = 57 aa8 = 58
+		coords: x = -30.410 y = -5.333 z = -18.449
+	Axis direction = -51.133 10.300 -11.563
+
+
+Recovered HELIX 4:
+	Centre of mass 1 (origin): aa1 = 17 aa2 = 18 aa3 = 19 aa4 = 20
+		coords: x = 19.762 y = 4.868 z = 16.783
+	Centre of mass 2: aa5 = 55 aa6 = 56 aa7 = 57 aa8 = 58
+		coords: x = -29.711 y = -14.588 z = 9.903
+	Axis direction = -49.473 -19.456 -6.881
+
+
+Recovered HELIX 5:
+	Centre of mass 1 (origin): aa1 = 17 aa2 = 18 aa3 = 19 aa4 = 20
+		coords: x = 17.180 y = 18.480 z = 7.775
+	Centre of mass 2: aa5 = 55 aa6 = 56 aa7 = 57 aa8 = 58
+		coords: x = -32.531 y = -2.743 z = 13.973
+	Axis direction = -49.711 -21.223 6.197
+
+
+Recovered HELIX 6:
+	Centre of mass 1 (origin): aa1 = 17 aa2 = 18 aa3 = 19 aa4 = 20
+		coords: x = 14.859 y = 19.707 z = -9.522
+	Centre of mass 2: aa5 = 54 aa6 = 55 aa7 = 56 aa8 = 57
+		coords: x = -33.367 y = 9.923 z = 6.411
+	Axis direction = -48.227 -9.785 15.933
+	New SNUM = 6
+
+Reference helix:1 (0 helices at 90deg )
+HELIX 2	Angle = 29.821098
+HELIX 3	Angle = 9.249643
+HELIX 4	Angle = 30.385805
+HELIX 5	Angle = 40.033863
+HELIX 6	Angle = 42.535347
+
+Calculating outlier secondary structures...
+
+Teta sum max = 300.00
+0.00	29.82	9.25	30.39	40.03	42.54			152.03
+29.82	0.00	20.98	38.78	36.95	26.67			153.20
+9.25	20.98	0.00	32.74	39.23	37.89			140.09
+30.39	38.78	32.74	0.00	14.01	27.17			143.09
+40.03	36.95	39.23	14.01	0.00	16.10			146.32
+42.54	26.67	37.89	27.17	16.10	0.00			150.36
+
+AVERAGE BUNDLE AXIS:
+
+	Origin = -3.468 -0.174 -0.173
+	Direction = -49.947 -3.555 -1.255
+
+Calculating roto-translation parameters...
+
+Rototraslational parameters:
+
+	x-origin = -3.467983
+	y-origin = -0.174006
+	z-origin = -0.172649
+	phi = -3.070539
+	teta = -0.025055
+
+Roto-translated PDB file created: program ended successfully
+

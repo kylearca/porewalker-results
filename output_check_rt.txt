@@ -1,0 +1,2 @@
+Output chikv6khexamer_rt.pdb: errors ok
+Output chikv6khexamer_rt.pdb: atoms ok
